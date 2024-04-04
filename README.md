@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mizan8111
+- 👋 Hi, I’m Md Mizan Ansari
 - 👀 I’m interested in Front End-Developement.
 - 🌱 I’m currently learning about how to become a Full stack Developer.
 - 💞️ I’m looking to collaborate on MNC'S.
